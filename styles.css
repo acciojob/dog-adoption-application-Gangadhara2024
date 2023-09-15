@@ -1,2 +1,29 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */form {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+label, input, select {
+  display: block;
+  margin: 10px 0;
+}
+
+input, select {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
